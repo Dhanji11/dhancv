@@ -1,0 +1,25 @@
+
+body{
+           background-color: lightblue;
+    }
+    hr{
+
+      border-style: none;
+      border-top-style: dotted;
+      border-width: 5px;
+      border-color: grey;
+      width:30%;
+    }
+h3
+{
+  color: #66BFBF;
+}
+h4
+{
+  color: red;
+}
+h1
+{
+  font-family:verdana;
+  color: maroon;
+}
